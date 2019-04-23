@@ -1,0 +1,16 @@
+body{
+    background-color: lightpink;
+}
+
+a{
+    margin-right: 200px;
+    margin-left: 100px; 
+}
+
+.class-for-image:hover{
+    width: 350px;
+}
+
+#text {
+    font-style: italic;
+}
