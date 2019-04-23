@@ -3,33 +3,29 @@
     width: 70px;
 }
 
-.same-for-buttons.primary{
+.primary{
     background-color:blue;
-    color: white;
+    color:black;
 }
 
-.same-for-buttons.default{
+.default{
     background-color: white;
     border-color: grey;
 }
 
-.same-for-buttons.dashed{
+.dashed{
     background-color: transparent;
     border-color: grey;
     border-style: dashed;
 
 }
 
-.same-for-buttons.danger{
+.danger{
     color: red;
 }
 
-.small{
-    height: 20px;
-    width: 35px;
-}
 
-.large{
-    height: 60px;
-    width: 120px;
+
+.ghost{
+    background-color: transparent;
 }
