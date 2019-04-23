@@ -1,0 +1,22 @@
+body{
+    background-color:lightsalmon;
+}
+
+header h2:hover{
+    font-family: fantasy;
+}
+
+main > h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-for-city2{
+    color: bisque;
+}
+
+#text-city-3{
+    color: aqua;
+}
+
+
+
