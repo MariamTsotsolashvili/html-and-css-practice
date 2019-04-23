@@ -23,3 +23,13 @@
 .same-for-buttons.danger{
     color: red;
 }
+
+.small{
+    height: 20px;
+    width: 35px;
+}
+
+.large{
+    height: 60px;
+    width: 120px;
+}
