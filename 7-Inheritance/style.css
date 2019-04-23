@@ -1,0 +1,25 @@
+.same-for-buttons{
+    height: 30px;
+    width: 70px;
+}
+
+.same-for-buttons.primary{
+    background-color:blue;
+    color: white;
+}
+
+.same-for-buttons.default{
+    background-color: white;
+    border-color: grey;
+}
+
+.same-for-buttons.dashed{
+    background-color: transparent;
+    border-color: grey;
+    border-style: dashed;
+
+}
+
+.same-for-buttons.danger{
+    color: red;
+}
