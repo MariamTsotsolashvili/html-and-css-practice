@@ -1,0 +1,31 @@
+.same-for-buttons{
+    height: 30px;
+    width: 70px;
+}
+
+.primary{
+    background-color:blue;
+    color:black;
+}
+
+.default{
+    background-color: white;
+    border-color: grey;
+}
+
+.dashed{
+    background-color: transparent;
+    border-color: grey;
+    border-style: dashed;
+
+}
+
+.danger{
+    color: red;
+}
+
+
+
+.ghost{
+    background-color: transparent;
+}

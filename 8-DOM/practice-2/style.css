@@ -1,0 +1,33 @@
+.image-p-div img, .img-p-div p{
+    display: inline-block;
+}
+.main-div{
+    border: 1px solid lightgrey;
+    width: 400px;
+    padding: 20px;
+}
+.user{
+    width: 50px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.main-div > img {
+    height: 20px;
+}
+
+.last-item{
+    float: right;
+    display: inline-block;
+    margin: 0;
+} 
+
+.main-div img:nth-child(even){
+    margin: 0 10px;
+}
+
+section{
+    margin-left: 3%;
+}
