@@ -1,10 +1,6 @@
 body{
     background-color: black;
 }
-.main{
-    width: 600px;
-    margin: 0 auto;
-}
 .row{
     width: 100%;
     clear: both;
@@ -24,14 +20,14 @@ body{
 .col-2{
     width: 90px;
     height: 30px;
-    background:yellow;
+    background:lightyellow;
     margin-bottom: 0;
     padding-top: 30px; 
 }
 .col-3{
     width: 70px;
     height: 30px;
-    background: yellow;
+    background: lightyellow;
 }
 .col-4{
     background: white;
@@ -39,7 +35,7 @@ body{
     width: 200px;
 }
 .col-5{
-    background:yellow;
+    background:lightyellow;
     width: 140px;
     height: 30px; 
     margin-bottom: 0;
@@ -53,14 +49,14 @@ body{
     padding-top: 30px;
 }
 .col-7{
-    background: red;
+    background: pink;
     height: 30px;
     width: 80px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-8{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 60px;
     margin-bottom: 0;
@@ -77,7 +73,7 @@ body{
 .col-10{
     width: 90px;
     height: 30px;
-    background:yellow; 
+    background:lightyellow; 
     margin-top: 0;
 }
 .col-11{
@@ -86,14 +82,14 @@ body{
     background: black;
 }
 .col-12{
-    background-color: royalblue;
+    background-color: rgb(95, 128, 226);
     height: 30px;
     width: 200px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-13{
-    background:yellow;
+    background:lightyellow;
     width: 140px;
     height: 30px; 
     margin-top: 0;
@@ -107,7 +103,7 @@ body{
     padding-top: 30px;
 }
 .col-15{
-    background: red;
+    background: pink;
     height: 30px;
     width: 80px;
     margin-top: 0;
@@ -115,7 +111,7 @@ body{
     padding-top: 30px;
 }
 .col-16{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 60px;
     margin-top: 0;
@@ -131,7 +127,7 @@ body{
 .col-18{
     width: 90px;
     height: 30px;
-    background:yellow; 
+    background:lightyellow; 
 }
 .col-19{
     width: 70px;
@@ -139,7 +135,7 @@ body{
     background: black;
 }
 .col-20{
-    background-color: royalblue;
+    background-color: rgb(95, 128, 226);
     height: 30px;
     width: 200px;
     margin-top: 0;
@@ -147,7 +143,7 @@ body{
     padding-top: 30px;
 }
 .col-21{
-    background:rgb(231, 198, 12);
+    background:lightyellow;
     width: 140px;
     height: 30px; 
 }
@@ -158,14 +154,14 @@ body{
     margin-bottom:30px;
 }
 .col-23{
-    background: red;
+    background: pink;
     height: 30px;
     width: 80px;
     margin-bottom:0;
     padding-top: 30px;
 }
 .col-24{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 60px;
     margin-bottom:0;
@@ -174,7 +170,7 @@ body{
 .col-25{
     width: 60px;
     height: 100px;
-    background:yellow;
+    background:lightyellow;
 }
 .col-26{
     width: 90px;
@@ -187,45 +183,45 @@ body{
     background: black;
 }
 .col-28{
-    background-color: royalblue;
+    background-color: rgb(95, 128, 226);
     height: 100px;
     width: 200px;
     margin-top: 0;
 }
 .col-29{
-    background:yellow;
+    background:lightyellow;
     width: 220px;
     height: 100px; 
 }
 
 .col-30{
-    background: red;
+    background: pink;
     height: 100px;
     width: 80px;
     margin-top: 0;
 }
 .col-31{
-    background: yellow;
+    background: lightyellow;
     height: 100px;
     width: 60px;
     margin-top: 0;
 }
 .col-32{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 280px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-33{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 83px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-34{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 83px;
 }
@@ -244,20 +240,20 @@ body{
     padding-top: 30px;
 }
 .col-37{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 280px;
     margin-top: 0;
 }
 .col-38{
-    background: yellow;
+    background: lightyellow;
     height: 30px;
     width: 83px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-39{
-    background: rgb(231, 198, 12);
+    background:lightyellow;
     height: 30px;
     width: 83px;
     margin-bottom: 0;
@@ -276,34 +272,34 @@ body{
     margin-top: 0;
 }
 .col-42{
-    background: royalblue;
+    background: rgb(95, 128, 226);
     height: 80px;
     width: 280px;
 }
 .col-43{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 83px;
     margin-top: 0;
 }
 .col-44{
-    background: rgb(231, 198, 12);
+    background: lightyellow;
     height: 80px;
     width: 83px;
     margin-top: 0;
 }
 .col-45{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 220px;
 }
 .col-46{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 80px;
 }
 .col-47{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 70px;
 }
@@ -313,24 +309,24 @@ body{
     width: 280px;
 }
 .col-49{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 83px;
 }
 .col-50{
-    background: rgb(231, 198, 12);
+    background: lightyellow;
     height: 80px;
     width: 83px;
 }
 .col-51{
-    background: red;
+    background: pink;
     height: 80px;
     width: 220px;
     margin-bottom: 0;
     padding-top: 30px;
 }
 .col-52{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 180px;
 }
@@ -342,12 +338,12 @@ body{
     padding-top: 30px;
 }
 .col-54{
-    background: red;
+    background: pink;
     height: 80px;
     width: 70px;
 }
 .col-55{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 70px;
     margin-bottom: 0;
@@ -361,7 +357,7 @@ body{
     padding-top: 30px;
 }
 .col-57{
-    background: red;
+    background: pink;
     height: 80px;
     width: 220px;
     margin-top: 0;
@@ -378,12 +374,12 @@ body{
     margin-top: 0;
 }
 .col-60{
-    background: rgb(231, 198, 12);
+    background: lightyellow;
     height: 80px;
     width: 70px;
 }
 .col-61{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 70px;
     margin-top: 0;
@@ -395,7 +391,7 @@ body{
     margin-top: 0;
 }
 .col-63{
-    background: yellow;
+    background: lightyellow;
     height: 80px;
     width: 430px;
 }
