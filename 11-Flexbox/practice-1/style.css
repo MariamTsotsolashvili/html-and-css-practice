@@ -1,69 +1,119 @@
-.row-1{
+.row{
     display: flex;
 }
-.row-2{
-    display: flex;
+.col1{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 9px;
 }
-main{
-    background: black;
-    width: 405px;
+.col2{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 9px;
 }
-.row-3{
-    display: flex;
+.col3{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
 }
-.col-1{
-    width: 200px;
+.col4{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col5{
+    width: 100px;
     height: 100px;
-    background: red;
-    margin: 5px;
-}
-.col-2{
-    width: 200px;
-    height: 100px;
-    background: white;  
-    margin: 5px;
-}
-.col-3{
-    width: 200px;
-    height: 80px;
-    background: white;  
-    margin: 5px;
-}
-.col-4{
-    width: 200px;
-    height: 80px;
-    background: white;  
-    margin: 5px;
-}
-.col-5{
-    width: 200px;
-    height: 200px;
-    background: beige;
-    margin: 5px;
-}
-.first{
-    width: 30px;
-    height: 198px;
-    background: yellow;
-    border: 2px solid black;
-}
-.col-6{
-    width: 200px;
-    height: 200px;
-    background: beige;
-    margin: 5px;
-}
-
-.third{
-    width: 135px;
-    height: 143px;
-    background: darkblue;
-    border: 2px solid black;
+    background: grey;
+    margin: 9px;
 
 }
-.forth{
-    width: 135px;
-    height: 52px;
-    background: pink;
-    border: 2px solid black;
+.col6{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col7{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col8{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col9{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col10{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col11{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col12{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    margin: 9px;
+
+}
+.col13{
+    width: 700px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col14{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col15{
+    width: 220px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col16{
+    width: 700px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col17{
+    width: 460px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
+}
+.col18{
+    width: 460px;
+    height: 220px;
+    background: grey;
+    margin: 7px;
 }
