@@ -1,0 +1,138 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.container{
+	justify-content: center;
+	display: grid;
+	grid-gap: 12px;
+	grid-template-areas:  'col1 col2 col3 col4 col5 col6 col7 col8'
+                          'col1 col9 col10  col11 col5 col6 col7 col8 '
+                          'col1 col9 col10 col11 col12 col6 col7 col8'
+                          'col13 col14  col10 col11 col15 col16 col7 col8'
+                          'middle-1 middle-1 middle-1 middle-2 middle-3 middle-4 middle-4 middle-5'
+                          'middle-6 middle-6 middle-6 middle-2 middle-7 middle-8 middle-9 middle-10'
+                          'middle-11 middle-11 middle-11 middle-2 middle-7 middle-12 middle-13 middle-13'
+                          'footer-1 footer-2 footer-3 footer-4 footer-4 middle-12 footer-5 footer-5'
+                          'footer-1 footer-6 footer-3 footer-4 footer-4 footer-7 footer-7 footer-7';
+   grid-template-rows: 40px 60px 30px 90px 30px 40px 70px 100px 30px 40px 70px;
+   grid-template-columns: 50px 100px 60px 80px 80px 80px 30px 60px 30px; 
+}
+.container div{
+	background-color: aqua;
+}
+.col1{
+	grid-area: col1;
+}
+.col2{
+	grid-area: col2;
+}
+.col3{
+	grid-area: col3;
+}
+.col4{
+	grid-area: col4;
+}
+.col5{
+	grid-area: col5;
+}
+.col6{
+	grid-area: col6;
+}
+.col7{
+	grid-area: col7;
+}
+.col8{
+	grid-area: col8;
+}
+.col9{
+	grid-area: col9;
+}
+.col10{
+	grid-area: col10;
+}
+.col11{
+	grid-area: col11;
+}
+.col12{
+	grid-area: col12;
+}
+.col13{
+	grid-area: col13;
+}
+.col14{
+	grid-area: col14;
+}
+.col15{
+	grid-area: col15;
+}
+.col16{
+	grid-area: col16;
+}
+.col17{
+	grid-area: col17;
+}
+.col18{
+	grid-area: col18;
+}
+.middle-1{
+	grid-area: middle-1;
+}
+.middle-2{
+	grid-area: middle-2;
+}
+.middle-3{
+	grid-area: middle-3;
+}
+.middle-4{
+	grid-area: middle-4;
+}
+.middle-5{
+	grid-area: middle-5;
+}
+.middle-6{
+	grid-area: middle-6;
+}
+.middle-7{
+	grid-area: middle-7;
+}
+.middle-8{
+	grid-area: middle-8;
+}
+.middle-9{
+	grid-area: middle-9;
+}
+.middle-10{
+	grid-area: middle-10;
+}
+.middle-11{
+	grid-area: middle-11;
+}
+.middle-12{
+	grid-area: middle-12;
+}
+.middle-13{
+	grid-area: middle-13;
+}
+.footer-1{
+	grid-area: footer-1;
+}
+.footer-2{
+	grid-area: footer-2;
+}
+.footer-3{
+	grid-area: footer-3;
+}
+.footer-4{
+	grid-area: footer-4;
+}
+.footer-5{
+	grid-area: footer-5;
+}
+.footer-6{
+	grid-area: footer-6;
+}
+.footer-7{
+	grid-area: footer-7;
+}
