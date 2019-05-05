@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: grid;
+    grid-template-areas: "cube1 cube2 cube2 cube2"
+    					 "cube3 cube2 cube2 cube2"
+    					 "cube3 cube2 cube2 cube2"
+    					 "cube4 cube5 cube5 cube6"
+    					 "cube4 cube5 cube5 cube7";
+    grid-template-rows: 100px 100px 120px 60px 60px;
+    grid-template-columns: 100px 250px 100px 60px;
+    grid-gap: 10px;
+    justify-content: center;
+}
+.container div {
+    background: blue;
+}
+.cube1{
+	grid-area: cube1;
+}
+.cube2{
+	grid-area: cube2;
+}
+.cube3{
+	grid-area: cube3;
+}
+.cube4{
+	grid-area: cube4;
+}
+.cube5{
+	grid-area: cube5;
+}
+.cube6{
+	grid-area: cube6;
+}
+.cube7{
+	grid-area: cube7;
+}
