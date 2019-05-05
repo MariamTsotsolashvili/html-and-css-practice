@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	display: grid;
+	grid-gap: 15px;
+	grid-template-rows: repeat(5,150px);
+	grid-template-columns: repeat(8,150px);
+}
+.container div{
+	background: violet;
+}
+.container .cube1{
+	grid-column: span 2;
+    grid-row: span 2;
+}
+.container .cube2{
+	grid-column: span 1;
+    grid-row: span 1;
+}
+.container .cube3{
+	grid-column: span 6;
+    grid-row: span 2;
+}
+.container .cube4{
+	grid-column: span 4;
+    grid-row: span 2;
+}
